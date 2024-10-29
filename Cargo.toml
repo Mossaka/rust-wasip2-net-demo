@@ -1,0 +1,3 @@
+[workspace]
+members = ["echo-client", "echo-server"]
+resolver = "2"
